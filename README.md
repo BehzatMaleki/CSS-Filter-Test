@@ -1,3 +1,3 @@
-# CSS-Filter-Test, Try CSS filters on any picture!
+# Try CSS filters on any picture!
 "CSS-Filter-Test.html" is a standing-alone html file by which you can test CSS filters on any desired image. It can be a helpful assistance for frontend web developers.
 Just download it and open it in a browser. thats all!
